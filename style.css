@@ -130,10 +130,11 @@ h1{
 }
 .container{
     display: flex;
-    padding: 15.5em;
+    padding: 11.4em;
  /* padding: 4m*/
     flex-direction: column;
     background-color: black;
+
     background-image: url("https://images.pexels.com/photos/114820/pexels-photo-114820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
     align-items: center;
 }
@@ -143,7 +144,7 @@ h1{
     flex-direction: row;
     justify-content: center;
     padding: 4em;
-    padding-top:5.5em;
+    padding-top:4em;
   }
   .container3{
     display: flex;
@@ -290,6 +291,8 @@ h1{
 }
 
 
+
+}
 
 @media screen and (max-width: 600px) {
   .container {
