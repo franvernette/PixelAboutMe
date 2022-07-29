@@ -1,2 +1,2 @@
 # PixelAboutMe
-About Me website using a pixel and retro style.
+About Me website using pixel and retro style.
